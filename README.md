@@ -4,3 +4,5 @@ Autor: Pislaras Adelina
 ## Utilizare: python main.py
 
 Modificare locala
+
+Modificarea facuta in GitHub
