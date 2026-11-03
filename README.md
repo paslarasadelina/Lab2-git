@@ -9,3 +9,4 @@ Modificarea facuta in GitHub
 
 ## Istoric calcule
 Operatii noi: putere si modul. Modulul history.py salveaza calculele in istoric.log.
+linie de test
