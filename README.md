@@ -6,3 +6,6 @@ Autor: Pislaras Adelina
 Modificare locala
 
 Modificarea facuta in GitHub
+
+## Istoric calcule
+Operatii noi: putere si modul. Modulul history.py salveaza calculele in istoric.log.
