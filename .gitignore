@@ -1,0 +1,15 @@
+# Configurari locale
+.env
+secret.txt
+
+# Fisiere temporare
+*.tmp
+temp/
+
+# Fisiere log
+*.log
+
+# Directoare generate automat
+build/
+__pycache__/
+.DS_Store
